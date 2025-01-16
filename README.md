@@ -30,6 +30,8 @@ Il permet l'affichage de cartes à jouer piochées depuis un jeu unique, génér
 ## 4. Accès
 Accédez directement au projet via [ce lien](https://xylo87.github.io/API_Deck/)
 
+---
+
 ## 5. Auteur
 Projet réalisé par Théo Arbogast (aka Xylo87).
 N'hésitez pas à ouvrir une issue ou à me contacter pour toute suggestion ou question.
