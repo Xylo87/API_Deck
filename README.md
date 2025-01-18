@@ -1,4 +1,4 @@
-#⚡♣️ Application de gestion de paquets de cartes en programmation asynchrone (JS) et utilisant une API.
+# ⚡♣️ Application de gestion de paquets de cartes en programmation asynchrone (JS) et utilisant une API.
 
 ## 1. Description 
 Ce projet est un exercice pratique de programmation asynchrone en **JavaScript**, utilisant l'API gratuite [Deck of Cards](https://deckofcardsapi.com/).
